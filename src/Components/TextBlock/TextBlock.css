@@ -1,0 +1,29 @@
+.textBlockImg{
+  display: inline;
+  margin-right: 70px;
+  width: 30%;
+  float: left;
+  padding-top: 150px;
+}
+
+.textBlockParagraph{
+  padding-right: 50px;
+  font-size: 35px;
+  font-family: monospace;
+  text-align: justify;
+}
+
+.textBlockTitle{
+  font-family: monospace;
+  font-size: 90px;
+  text-align: center;
+  padding-right: 130px;
+}
+
+.textBlock{
+  padding: 20px;
+}
+
+.textBlockAll{
+  padding-bottom: 110px;
+}
